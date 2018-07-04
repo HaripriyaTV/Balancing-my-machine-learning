@@ -11,24 +11,26 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 If the classifier makes good predictions, the banks can arrange a better management of available resources by focusing on the potential customers “picked” by the classifier, which will improve their efficiency. Besides, finding out which factors are influential to customers’ decision, will aid in designing a precise campaign strategy, to help to reduce the costs of the bank and improve the profits. 
 
 ## Dara Source
-The data is available in the UCI Machine Learning Repository. It can be found in the link, https://archive.ics.uci.edu/ml/datasets/bank+marketing. Further details about the data can be found here.
+The data is available in the UCI Machine Learning Repository. It can be found in the link, https://archive.ics.uci.edu/ml/datasets/bank+marketing. Further details about the data can be found [here](https://github.com/HaripriyaTV/Balancing-my-machine-learning/tree/master/Introduction).
 
 ## Contents
-1. Introduction
+1. [Introduction](https://github.com/HaripriyaTV/Balancing-my-machine-learning/tree/master/Introduction)
    - About data
    - Loading packages and data in R
-2. Data Exploration
+2. [Data Exploration](https://github.com/HaripriyaTV/Balancing-my-machine-learning/tree/master/DataExploration)
    - Univariate analysis
    - Bivariate analysis
-3. Data Manipulation
+3. [Data Cleaning](https://github.com/HaripriyaTV/Balancing-my-machine-learning/tree/master/DataCleaning)
+   - Treating Missing Values
+4. [Data Manipulation](https://github.com/HaripriyaTV/Balancing-my-machine-learning/tree/master/DataManipulation)
    - Feature Engineering
    - Feature selection
    - Resampling techniques (dealing with the data imbalance)
-4. Modelling and Prediction
+5. [Modelling and Prediction](https://github.com/HaripriyaTV/Balancing-my-machine-learning/tree/master/Modelling)
    - Linear Regression
    - Random Forest
    - Support Vector Machine (SVM)
    - eXtreme Gradient Boosting (XGBoost)
-5. Conclusion
+6. [Conclusion](https://github.com/HaripriyaTV/Balancing-my-machine-learning/tree/master/Conclusion)
      
 
