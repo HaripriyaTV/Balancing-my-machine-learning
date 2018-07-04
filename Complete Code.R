@@ -1,5 +1,5 @@
 
-#loading required package
+#loading required packages
 library(data.table) #for loading data
 library(dplyr) #for data manipulation
 library(ggplot2) #for data visualization
@@ -632,10 +632,6 @@ perf_svm1@y.values[[1]][2]#0.9992268
 #prediction
 #random forest has performed well than other algorithms
 #predicting the test data using random forest
-
-test_data <- read.csv("test_data.csv")
-View(test_data)
-test_data$X <- NULL
 
 test_pred <- predict(rf_default, test_data, type = "prob")
 write.csv(test_pred, "prediction_result.csv")
