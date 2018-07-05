@@ -16,8 +16,7 @@ macroeconomy. **A stable employment rate** denotes a **stable economic environme
 their investment**. 
 - "age" definitely influences the subscription as the **middle aged people can be the more willing customer to spend their money on 
 financial tools**.
-- **CCI and CPIs** are the ones that will **determine the expenditure and saving of a customer in a month**. So they will definitey influence 
-the subscription.
+- **CCI and CPIs** are the ones that will **determine the expenditure and saving of a customer in a month**. So they will definitely influence the subscription.
 - Also **clients who responded positively to previous similar campaigns have the tendency to subscribe** to the current campaign, and hence should be contacted and given priority.
 
 Therefore, if the bank wants to improve their lead generation, they should hire more people to work for them, 
