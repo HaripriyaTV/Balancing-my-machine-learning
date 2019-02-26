@@ -11,7 +11,7 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 
 If the classifier makes good predictions, the banks can arrange a better management of available resources by focusing on the potential customers “picked” by the classifier, which will improve their efficiency. Besides, finding out which factors are influential to customers’ decision will aid in designing a precise campaign strategy, to help to reduce the costs of the bank and improve the profits. 
 
-## Dara Source
+## Data Source
 The data is available in the UCI Machine Learning Repository. It can be found in the link, https://archive.ics.uci.edu/ml/datasets/bank+marketing. Further details about the data can be found [here](https://github.com/HaripriyaTV/Balancing-my-machine-learning/tree/master/Introduction).
 
 ## Contents
