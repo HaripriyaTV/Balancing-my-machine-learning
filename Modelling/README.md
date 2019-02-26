@@ -24,6 +24,6 @@ The AUC and F1 measure values obtained for each of the model is,
 The F1 measure of XGBoost seems to give the greatest balance between precision and recall than other models. But its AUC value is the least.
 This can lead to an increase of false positives.
 
-But random forest have a high AUC value and its F1 measure is comparitively high than the first two models. 
+But random forest has a high AUC value and its F1 measure is comparitively higher than the first two models. 
 
-Hence Random Forest is chosen for predicting the subscription variable y upon test data set.
+Hence Random Forest is chosen for predicting the subscription variable y upon test data.
